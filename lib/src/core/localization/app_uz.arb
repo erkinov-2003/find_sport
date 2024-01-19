@@ -1,0 +1,9 @@
+{
+  "language" : "Tillar",
+  "first_name": "Ismingiz",
+  "last_name": "Familyangiz",
+  "phone_number": "Telefon raqamingiz",
+  "password": "Parolingiz",
+  "confirm_password": "Takroriy parolingiz",
+  "sign_up": "Ro'yxatdan o'tish"
+}

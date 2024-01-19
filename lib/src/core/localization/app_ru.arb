@@ -1,0 +1,9 @@
+{
+  "language" : "Язык",
+  "first_name": "Имя",
+  "last_name": "Фамилия",
+  "phone_number": "Номер телефона",
+  "password": "Пароль",
+  "confirm_password": "Подтвердите пароль",
+  "sign_up": "Регистрация"
+}
